@@ -1,8 +1,126 @@
-.blackbackground{
-  background-color: black;
-  color: white;
+.headersection{
+  display: flex;
+  justify-content: space-between;
+  padding:15px 50px;
+}
+.headerlinks{
+    display: flex;
+    align-items: center;
+}
+.links{
+    margin: 0px 10px;
+}
+.secondsection{
+    background-image: url(https://3extent.vercel.app/Assets/home1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    
+}
+.backgroundimgtext{
+    color: white;
+    font-weight: 600;
+    font-size: 28px;
+    padding: 300px 50px;
+}
+.thirdsection{
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+}
+.fourthsection{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 50px;
+}
+.fourthsectioninfo{
+    margin: auto 8px;
+
+}
+.fourthsectionimgs{
+    width: 700px;
+    border-radius: 8px;
+}
+.fifthsection{
+    background-color: #fff;
+    width: 90%;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px #eee;
+    border-radius: 8px;
+}
+.partnerwithus{
+    text-align: center;
+    margin: 25px auto;
+    font-weight: 600;
+    font-size: 24px;
+}
+.sentence{
+    font-size: 18px;
+}
+.aboutUspage{
+    text-align: center;
+    padding: 15px;
+    width: 300px;
+    box-shadow: 10px 10px 10px 10px #eee;
+    border-radius: 8px;
+
+}
+.ceoimg{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.postname{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 10px;
+}
+.name{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.allpage{
+    margin: auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.sixthsection{
+  width: 85%;
+  margin: 50px auto;
+  background: #fff;
+  padding: 10px 50px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
-.whitebackground{
-  text-align: center;
+
+h2 {
+  color: #1c2534;
+
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.values {
+  margin-top: 10px;
+  text-align: left;
+  display: inline-block;
+}
+
+.values p {
+  margin: 12px 0;
+  font-size: 18px;
+}
+
+.values strong {
+  color: #000;
 }
