@@ -65,20 +65,13 @@ function App() {
           <div className='name'>Vinod Gade</div>
         </div>
       </div>
-
-      <div classname="sixthsection">
-        <h2>Our Mission</h2>
-        <p>
-          To become India’s most trusted wholesale partner for second-hand and refurbished mobiles
-          by consistently<br/> delivering quality, value, and customer satisfaction.
-        </p>
-
-        <h2>Our Values</h2>
-        <div class="values">
-          <p><strong>Quality First –</strong> Every device is tested for performance and reliability.</p>
-          <p><strong>Integrity in Business –</strong> We believe in honest pricing and transparent deals.</p>
-          <p><strong>Partnership Focused –</strong> Your success is our success.</p>
-        </div>
+      <div>
+        <div>Our Mission</div>
+        <div>To become India’s most trusted wholesale partner for second-hand and refurbished mobiles by consistently delivering quality, value, and customer satisfaction.</div>
+        <div>Our Values</div>
+        <div><strong>Quality First –</strong> Every device is tested for performance and reliability.</div>
+        <div><strong>Integrity in Business –</strong> We believe in honest pricing and transparent deals.</div>
+        <div><strong>Partnership Focused – </strong>Your success is our success.</div>
       </div>
 
 
